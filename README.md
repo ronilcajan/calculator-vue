@@ -1,6 +1,6 @@
-# calculator
+# Calculator Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+This source code is very simple and the purpose of this is for my learning in vue 3.
 
 ## Recommended IDE Setup
 
